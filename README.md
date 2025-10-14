@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! Welcome to my Github 👋
 
-<!--
-**AdKnow/AdKnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with proficiency in C, C++, Python, Javascript and SQL. My portfolio of projects include work in different domains of computer science such as Algorithm Implementations, Desktop Applications, Scalable backend servers, Machine Learning Models. Not all are public on my profile yet*. I am also AZ-900 certified.
+I am an enthusiast in designing, building, and maintaining web applications and backend systems. I work across the functions and focus on writing clean, maintainable code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 My Projects:
+* A Collaborative Desktop Coding Platform, deployable on LAN. 
+* Parallel HyperLogLog Algorithm Implementation in C++ using OpenMP and OpenMPI.
+* Scalable Node/Express.js backend server for a case management system.
+* Parallel Multilevel Job Scheduler with load balancing in C++.
+* Time Series Forecasting models for Class divided Sequences using variations on LSTMs.
+---
+#### Only certain repos accept contributions - do check if they mention open for contributions!
+#### Reach out through github if you are interested to collaborate on any idea! 
