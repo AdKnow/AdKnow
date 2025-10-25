@@ -9,6 +9,7 @@ I am an enthusiast in designing, building, and maintaining web applications and 
 * Scalable Node/Express.js backend server for a case management system.
 * Parallel Multilevel Job Scheduler with load balancing in C++.
 * Time Series Forecasting models for Class divided Sequences using variations on LSTMs.
+* RAG Model that integrates with several APIs to give real time actionable insights to farmers -> Hackathon Project.
 ---
 #### Only certain repos accept contributions - do check if they mention open for contributions!
-#### Reach out through github if you are interested to collaborate on any idea! 
+#### Reach out through github if you are interested to collaborate on any idea!
