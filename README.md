@@ -6,11 +6,13 @@ I am an enthusiast in designing, building, and maintaining web applications and 
 I work across the functions and focus on writing clean, maintainable code.
 
 ## 💡 My Projects:
+* An Agentic AI Workflow for automated & passive Data Analytics useful for small scale businesses.
 * A Collaborative Desktop Coding Platform, deployable on LAN. 
 * Parallel HyperLogLog Algorithm Implementation in C++ using OpenMP and OpenMPI.
 * Scalable Node/Express.js backend server for a case management system.
 * Parallel Multilevel Job Scheduler with load balancing in C++.
-* Time Series Forecasting models for Class divided Sequences using variations on LSTMs. (Ongoing Research Project)   
+* Time Series Forecasting models for Class divided Sequences using variations on LSTMs. (Research Project)
+* A Survey on Agentic AI in Data Science. (Research Project)
 * RAG Model that integrates with several APIs to give real time actionable insights to farmers -> Hackathon Project.    
 * Open Source Contributions.    
 ---
